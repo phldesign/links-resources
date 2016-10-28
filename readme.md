@@ -1,6 +1,6 @@
 # **Podcasts**
-- <a href="http://www.hirespod.com" target="_blank">HiRes Podcast</a> - by Ryan Starr
-- <a href="workingfile.co" target="_blank">Working File</a>
+- <a href="http://www.hirespod.com" target="_blank">HiRes Podcast</a>
+- <a href="http://workingfile.co" target="_blank">Working File</a>
 - <a href="http://goodbad.show/" target="_blank">Good Bad Show</a>
 - <a href="http://5by5.tv/onthegrid" target="_blank">On The Grid</a>
 
