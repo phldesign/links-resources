@@ -1,0 +1,175 @@
+---
+layout: default
+categories: resources
+title: Links & Resources
+---
+
+### **Podcasts**
+
+##### Design Related
+- <a href="http://www.hirespod.com" target="_blank">HiRes Podcast</a> - by Ryan Starr
+- <a href="workingfile.co" target="_blank">Working File</a>
+- <a href="http://goodbad.show/" target="_blank">Good Bad Show</a>
+- <a href="http://5by5.tv/onthegrid" target="_blank">On The Grid</a>
+
+
+### **Web Design**
+
+##### Web Design Resources
+- <a href="http://adamkaplan.me/grid/" target="_blank">Grid</a> - made by Adam Kaplan
+- <a href="http://960.gs/" target="_blank">960 Gridsystem</a>
+- <a href="https://dribbble.com/shots/865767-iPhone-5-Grid" target="_blank">iPhone 5 Grid</a>
+- <a href="http://geticonjar.com/" target="_blank">Icon Management</a>
+- <a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a>
+- <a href="http://www.modularscale.com/" target="_blank">Modular Scale</a> - Typography Scales
+
+##### Web UI Kits
+- <a href="http://www.invisionapp.com/tethr" target="_blank">Tethr</a>
+- <a href="http://bootflat.github.io/free-psd.html" target="_blank">Bootflat</a>
+- <a href="http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/" target="_blank">Polaris UI</a>
+
+##### Mobile & Device UI Kits
+- <a href="http://www.teehanlax.com/tools/iphone/" target="_blank">iOS8 GUI</a>
+- <a href="https://designcode.io/watch" target="_blank">Apple Watch GUI</a>
+- <a href="http://yosemiteui.com/" target="_blank">Mac Yosemite UI</a>
+- <a href="http://www.uxpin.com/lollipop-ui-kit.html" target="_blank">Android Lollipop</a>
+
+##### Device Mockups
+- <a href="https://dribbble.com/shots/1187389-iPad-Showcase-Template" target="_blank">iPad</a>
+- <a href="https://dribbble.com/shots/1034402-Minimal-iPhone-5-White-Template-PSD" target="_blank">iPhone 5</a>
+- <a href="https://dribbble.com/shots/1722076-iPhone-6-4-7-inch-Template-PSD" target="_blank">iphone 6</a>
+- <a href="https://dribbble.com/shots/829545--PSD-iMac-MacBook-Retina" target="_blank">iMac &amp; Macbook Pro</a>
+- <a href="https://dribbble.com/shots/1291675-Nexus-5-Mockup-PSD" target="_blank">Nexus 5</a>
+- <a href="https://dribbble.com/shots/2040860-Samsung-Galaxy-S6-in-Hand-Mockup" target="_blank">Samsung Galaxy S6 (In Hand)</a>
+- <a href="https://dribbble.com/shots/780376-lumia-920-yellow?list=buckets&offset=11" target="_blank">Lumia 920</a>
+
+##### Stock Images
+- <a href="https://unsplash.com/" target="_blank">Unsplash</a>
+- <a href="http://littlevisuals.co/" target="_blank">Little Visuals</a>
+- <a href="http://www.gratisography.com/" target="_blank">Gratisopgrahy</a>
+- <a href="http://thestocks.im/" target="_blank">Free Stock Photo Aggregator</a>
+
+### **Mobile App Design**
+
+##### iOS Design
+- <a href="http://www.paintcodeapp.com/news/iphone-6-screens-demystified" target="_blank">iPhone 6 Screens Demystified</a>
+- <a href="http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions" target="_blank">Ultimate Guide to iPhone Resolutions</a>
+- <a href="http://www.raywenderlich.com/83129/beginning-auto-layout-tutorial-swift-part-1" target="_blank">Understanding Auto Layout &amp; Why It's Useful</a>
+
+### **Web Dev**
+
+##### Language Support
+- <a href="http://sass-lang.com/" target="_blank">SASS</a> - Popular CSS pre-processor
+- <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a> - Another option for CSS pre-processor
+- <a href="http://daringfireball.net/projects/markdown/syntax" target="_blank">Markdown: Syntax</a> - Markdown Syntax on Daring Fireball
+- <a href="https://travismaynard.com/writing/getting-started-with-gulp" target="_blank">Getting Started with Gulp</a>
+- <a href="http://24ways.org/2013/grunt-is-not-weird-and-hard/" target="_blank">Grunt is Not Weird and Hard</a>
+- <a href="https://www.appnovation.com/resources" target="_blank">Appnovation</a>
+
+##### Frameworks
+- <a href="http://foundation.zurb.com/" target="_blank">Zurb Foundation</a>
+- <a href="http://getskeleton.com/" target="_blank">Skeleton</a>
+- <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+
+##### Issue Tracking / Project Management
+- <a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a>
+- <a href="https://trello.com/" target="_blank">Trello</a>
+- <a href="https://www.getdonedone.com/" target="_blank">DoneDone</a>
+
+##### Useful Apps
+- <a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a> - Popular text editor with great addons
+- <a href="https://atom.io/" target="_blank">Atom</a> - Text Editor from GitHub
+- <a href="https://ngrok.com/" target="_blank">ngrok</a> - Secure tunneling to localhost
+- <a href="https://incident57.com/codekit/" target="_blank">CodeKit</a>- Useful compiler if you aren't running grunt/gulp
+- <a href="http://www.git-tower.com/" target="_blank">Tower</a> - Git GUI
+- <a href="https://panic.com/transmit/" target="_blank">Transmit</a> - FTP Client
+
+##### CMS
+- <a href="https://ghost.org/" target="_blank">Ghost</a> - Just a blogging platform
+- <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+- <a href="http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/" target="_blank">Building a Blog with Jekyll &amp; GitHub Pages</a>
+- <a href="https://wordpress.com/" target="_blank">Wordpress</a>
+- <a href="https://www.appnovation.com/resources" target="_blank">Appnovation - Drupal Support</a>
+
+##### HTML/CSS
+- <a href="http://daneden.github.io/animate.css/" target="_blank">Animate.css</a> - Just add-water CSS Animations
+- <a href="http://tympanus.net/Development/TextInputEffects/index.html" target="_blank">Text Input Effects</a> - Input effects from Tympanus
+- <a href="http://jxnblk.com/shade/?base=00ccff&hueShift=-130&saturate=0&lighten=0" target="_blank">Shade</a> - Mathematically derived gradient explorer
+- <a href="https://www.appnovation.com/resources" target="_blank">Appnovation</a>
+
+### **UX**
+
+##### Wireframing
+- <a href="http://fiftythree.com/think" target="_blank">Think with Paper</a>
+
+##### Prototyping
+- <a href="http://www.invisionapp.com" target="_blank">Invision App</a>
+- <a href="http://framerjs.com/" target="_blank">Framer</a>
+- <a href="https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932" target="_blank">Prototyping UI in Edge</a>
+- <a href="http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/" target="_blank">Mobile Navigation with Keynote</a>
+- <a href="https://robots.thoughtbot.com/animating-with-keynote" target="_blank">Animations in Keynote</a>
+
+##### Accessibility
+- <a href="http://viget.com/inspire/color-contrast" target="_blank">Color Contrast for Better Readability</a>
+- <a href="http://webaim.org/resources/contrastchecker/" target="_blank">WebAIM: Color Contrast Checker</a>
+- <a href="http://jxnblk.com/colorable/demos/text/" target="_blank">Colorable - Color Palette Combination Contrast Checker</a>
+
+##### Useful Content
+- <a href="https://zapier.com/blog/user-onboarding-myths/?utm_campaign=User%20Onboarding%20Myths" target="_blank">5 Myths About User Onboarding</a>
+- <a href="http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf" target="_blank">UXPin: Guide to Wireframing</a>
+- <a href="http://uxmyths.com/" target="_blank">UX Myths</a>
+
+### **Filetypes**
+
+##### SVG
+- <a href="http://danielmall.com/articles/svg-workflow-for-designers/" target="_blank">Illustrator SVG Workflow</a>
+- <a href="http://blog.useiconic.com/our-toolkit-is-now-available-and-open-source/" target="_blank">Iconic SVG Toolkit</a>
+
+### **Application Resources**
+
+##### Sketch
+- <a href="http://www.designyourway.net/blog/resources/sketch-plugins-that-will-improve-your-workflow/" target="_blank">Sketch Plugins</a> - Compiled list of plugins that will improve your workflow
+- <a href="http://www.sketchappsources.com/" target="_blank">Sketch Resources</a>
+
+##### Photoshop
+- <a href="http://photoshopsecrets.tumblr.com/" target="_blank">Photoshop Secrets</a>
+
+### **Good Reads**
+
+##### Design Articles
+- <a href="https://medium.com/@hoyboy/work-is-the-magic-bullet-cb2d10599405" target="_blank">Work Is The Magic Bullet</a>
+- <a href="http://cognition.happycog.com/article/good-work-isnt-enough" target="_blank">Good Work Isn't Enough</a>
+- <a href="http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense" target="_blank">Fall of The Designer</a> - Part 1 of 5
+- <a href="http://cushionapp.com/journal/inspiration-vs-imitation/" target="_blank">Inspiration vs Imitation</a>
+- <a href="http://www.fastcodesign.com/3043815/dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer" target="_blank">Dieter Rams: If I Could Do It Again, "I Would Not Want To Be A Designer"</a>
+
+##### General Design Books
+- <a href="http://www.thinkingwithtype.com/" target="_blank">Thinking with Type</a>
+
+##### Design Thinking Books
+- <a href="https://www.sensible.com/dmmt.html" target="_blank">Don't Make Me Think</a>
+- <a href="https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123" target="_blank">Design of Everyday Things</a>
+- <a href="http://debbiemillman.com/lookbothways/" target="_blank">Look Both Ways</a>
+- <a href="https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367" target="_blank">Emotional Design</a>
+- <a href="https://www.edwardtufte.com/tufte/books_vdqi" target="_blank">The Visual Display of Quantitative Information</a>
+- <a href="https://www.edwardtufte.com/tufte/books_ei" target="_blank">Envisioning Information</a>
+- <a href="http://shop.oreilly.com/product/0636920021827.do" target="_blank">Lean UX</a>
+- <a href="http://www.gv.com/sprint/" target="_blank">The Design Sprint</a>
+- <a href="https://www.amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450" target="_blank">Grid systems</a>
+- <a href="https://www.amazon.com/Design-Art-Penguin-Modern-Classics/dp/0141035811" target="_blank">Design as Art</a>
+- <a href="https://www.amazon.com/dp/1491923679/ref=cm_sw_su_dp" target="_blank">Designing Products People Love: How Great Designers Create Successful Products</a>
+- <a href="https://www.amazon.com/dp/1856697517/ref=wl_it_dp_v_S_ttl?_encoding=UTF8&colid=2760AQYR8L253&coliid=I1W23V8NG2P97Z" target="_blank">Product Design</a>
+- <a href="https://www.amazon.com/dp/0061766089/ref=wl_it_dp_v_nS_ttl?_encoding=UTF8&colid=2760AQYR8L253&coliid=I22TI4CGJG57AD" target="_blank">Change by Design: How Design Thinking Transforms Organizations &amp; Inspires Innovation</a>
+- <a href="https://www.amazon.com/dp/1780671644/ref=wl_it_dp_v_nS_ttl?_encoding=UTF8&colid=2760AQYR8L253&coliid=IK0LZZVK0R2Z8" target="_blank">Editorial Design: Digital and Print</a>
+- <a href="https://www.amazon.com/dp/161689332X/ref=wl_it_dp_v_nS_ttl?_encoding=UTF8&colid=2760AQYR8L253&coliid=ICSR7KH91KVT9" target="_blank">Graphic Design: The New Basics: The second edition</a>
+- <a href="https://www.amazon.com/dp/1580087736/ref=wl_it_dp_v_nS_ttl?_encoding=UTF8&colid=2760AQYR8L253&coliid=I3HT0JXDTJLKOH" target="_blank">Thinkertoys: A handbook of creative-thinking techniques</a>
+- <a href="https://www.goodreads.com/review/list/41732212-caleb?shelf=design-strategy" target="_blank">A Really Long List of Recommendations on GoodReads</a>
+
+##### Need to Convince Someone?
+- <a href="http://thereisnofold.tumblr.com/" target="_blank">There is No Fold</a>
+
+### **Need Feedback?**
+
+##### Design Based Communities
+- <a href="http://www.dribbble.com" target="_blank">Dribbble</a>
+- <a href="https://www.behance.net/" target="_blank">Behance</a>
