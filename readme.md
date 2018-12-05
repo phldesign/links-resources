@@ -67,6 +67,8 @@
 - <a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a>
 - <a href="https://trello.com/" target="_blank">Trello</a>
 - <a href="https://www.getdonedone.com/" target="_blank">DoneDone</a>
+- <a href="https://asana.com" target="_blank">Asana</a>
+- <a href="https://monday.com/ target="_blank">Monday</a>
 
 ### Useful Apps
 - <a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a> - Popular text editor with great addons
